@@ -1,0 +1,22 @@
+{
+  "name": "easy-prisma-client-export",
+  "version": "0.0.1",
+  "description": "A convenience tool that exports a Prisma client. Primarily used with the Remix fullstack framework. This tool is entirely created from instructions in Brad Traversy's video on Remix, and this tool might be modified wherever seen necessary",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Prisma",
+    "TypeScript",
+    "Remix"
+  ],
+  "author": "Komefumi <komefumi@protonmail.ch>",
+  "license": "ISC",
+  "devDependencies": {
+    "@prisma/client": "^3.7.0",
+    "@types/node": "^17.0.2",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
+  }
+}
